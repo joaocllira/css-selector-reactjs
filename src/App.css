@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+#box {
+    margin: 50px;
+}
+
+.borda {
+    border: 5px solid #000
+}
+
+.cor {
+    color: red;
+}
+
+.negrito {
+    font-weight: bold;
+}
